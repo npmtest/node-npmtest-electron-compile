@@ -1,0 +1,31 @@
+<svg height="446" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="446" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-20 18:35:10 +0000   390144 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 18:35:10 +0000     7080 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 18:35:10 +0000     6668 bytes  lib/browser-signal.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 18:35:10 +0000    12263 bytes  lib/cli.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 18:35:10 +0000    46091 bytes  lib/compile-cache.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 18:35:10 +0000    90094 bytes  lib/compiler-host.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 18:35:10 +0000    57109 bytes  lib/config-parser.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 18:35:10 +0000     4966 bytes  lib/custom-operators.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 18:35:10 +0000     6344 bytes  lib/digest-for-object.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 18:35:10 +0000     1237 bytes  lib/es6-shim.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 18:35:10 +0000    47684 bytes  lib/file-change-cache.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 18:35:10 +0000     5848 bytes  lib/for-all-files.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 18:35:10 +0000     3934 bytes  lib/index.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 18:35:10 +0000     6364 bytes  lib/initialize-renderer.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 18:35:10 +0000    10293 bytes  lib/live-reload.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 18:35:10 +0000    22260 bytes  lib/packager-cli.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 18:35:10 +0000     4152 bytes  lib/pathwatcher-rx.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 18:35:10 +0000     1349 bytes  lib/promise.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-20 18:35:10 +0000    24931 bytes  lib/protocol-hook.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-20 18:35:10 +0000     4254 bytes  lib/read-only-compiler.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-20 18:35:10 +0000     7970 bytes  lib/require-hook.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-20 18:35:10 +0000     2608 bytes  lib/rig-mime-types.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-20 18:35:10 +0000     5277 bytes  lib/sanitize-paths.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-20 18:35:10 +0000     4788 bytes  lib/x-require.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-20 18:35:10 +0000     2227 bytes  package.json</tspan>
+<tspan x="10" y="426"> 25.  2017-04-20 18:35:10 +0000     4353 bytes  types/index.d.ts</tspan>
+</text>
+</svg>
